@@ -1,2 +1,2 @@
 # the-delve
-A Dupal based, main text based RPG clicker game.
+A Dupal based, mainly text based RPG clicker game.
